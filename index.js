@@ -1,5 +1,6 @@
 const puppeteer = require("puppeteer");
 const StealthPlugin = require("puppeteer-extra-plugin-stealth");
+puppeteer.use(StealthPlugin())
 const product_link =
   "https://www.walmart.com/ip/Better-Homes-Gardens-16-5oz-Red-Lava-Citrus-Scented-2-Wick-Pagoda-Jar-Candle/5164703616?athbdg=L1600";
 
