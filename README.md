@@ -1,4 +1,4 @@
-# Walmart-bot
+# SwiftCart
 1 . await page.waitForSelector("input[name='Email Address']");  Should I take the name of the attribute? or the type? Idk
 
 2. I put the add to cart and continue to checkout button clicks in the same function. Should I seperate them?
