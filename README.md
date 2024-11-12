@@ -1,6 +1,6 @@
   <h1>SwiftCart</h1> 
 </div>
-Today I Learned is a web application that allows you to learn, react to and add facts all in one place!
+SwiftCart is a browser bot that allows you to check out items 
 
 <h2>Website Interface 	&#127747</h2>
 Add a Fact:
