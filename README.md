@@ -19,7 +19,7 @@ Get your questions answered. Get in touch with me through [my website](https://b
 
 To learn about Puppeteer, check out the [Puppeter-Stealth Usage Guide](https://github.com/berstend/puppeteer-extra/tree/master/packages/puppeteer-extra-plugin-stealth).
 
-To learn React, check out the [Node.js documentation]((https://nodejs.org/docs/latest/api/).
+To learn React, check out the [Node.js documentation](https://nodejs.org/docs/latest/api/).
 
 <h2>Personal Complications ❓</h2>
 1 . await page.waitForSelector("input[name='Email Address']");  Should I take the name of the attribute? or the type? Idk
