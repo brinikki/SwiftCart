@@ -2,13 +2,8 @@
 </div>
 SwiftCart is a browser bot that allows you to check out items 
 
-<h2>Website Interface 	&#127747</h2>
-Add a Fact:
-<img src="public/Screenshot21.png" crossorigin>
-Default Website Screenshot:
-<img src="public/Screenshot9.png" crossorigin>
-Filter Facts by Category:
-<img src="public/Screenshot20.png" crossorigin>
+<h2>Video 	&#127747</h2>
+
 
 
 <h2>Tech Stack &#128218</h2>
@@ -22,13 +17,11 @@ Get your questions answered. Get in touch with me through [my website](https://b
 
 <h2>Learn More 💭</h2>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+To learn about Puppeteer, check out the [Puppeter-Stealth Usage Guide](https://github.com/berstend/puppeteer-extra/tree/master/packages/puppeteer-extra-plugin-stealth).
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To learn React, check out the [Node.js documentation]((https://nodejs.org/docs/latest/api/).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-<h2>Personal Questions ❓</h2>
+<h2>Personal Complications ❓</h2>
 1 . await page.waitForSelector("input[name='Email Address']");  Should I take the name of the attribute? or the type? Idk
 
 2. I put the add to cart and continue to checkout button clicks in the same function. Should I seperate them?
