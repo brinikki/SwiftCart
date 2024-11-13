@@ -2,9 +2,6 @@
 </div>
 SwiftCart is a browser bot that allows you to check out items 
 
-<h2>Video 	&#127747</h2>
-
-
 
 <h2>Tech Stack &#128218</h2>
 
